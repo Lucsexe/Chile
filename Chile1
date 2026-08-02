@@ -1,576 +1,433 @@
 #EXTINF:-1 tvg-id="el-trece.ar" tvg-name="El Trece" tvg-logo="https://ejemplo.com/logo.png" group-title="ARGENTINA",El Trece HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a315bc227d85.png" group-title="Información", 1 Voces del Fuego
+#EXTINF:-1 tvg-id="" tvg-name="1 Voces del Fuego" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a315bc227d85.png" group-title="Información", 1 Voces del Fuego
 https://stmv2.voxtvhd.com.br/vocesdelfuego/vocesdelfuego/playlist.m3u8?hls_ctx=s445pl1r
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-11 Aysen
+#EXTINF:-1 tvg-id="" tvg-name="11 Aysen" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d6df52b14ad.png" group-title="",11 Aysen
 https://v2.tustreaming.cl/canal11aysen/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13 Cocina
+#EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b20c88a5fd6.png" group-title="", 13 Cocina
 https://dai.google.com/linear/hls/pa/event/mpbTLkfAQqmjmo7xyhnFlg/stream/6e145f92-2d9c-442c-8cae-11d2c00e3f0e:SCL2/variant/e6d14ec7b265adacc76b3a888c575c05/bandwidth/3162173.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13 Cultura
+#EXTINF:-1 tvg-id="" tvg-name="13 Cultura" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_68313028d01fe.png" group-title="", 13 Cultura
 https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/12b3d69d-79d1-451e-931c-f5461658fe91:SCL2/variant/19a02d286eac3842cf925c3d868173f4/bandwidth/4322072.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13 Festival
+#EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d5f09f877ef.png" group-title="", 13 Festival
 https://dai.google.com/linear/hls/pa/event/Nftd0fM2SXasfDlRphvUsg/stream/63bfe091-c876-48dc-98f3-e01d8a25efe3:SCL2/variant/165c6e5c4a71f11e2aa0f4eafaa722f0/bandwidth/2673836.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13 Pop
+#EXTINF:-1 tvg-id="" tvg-name="13 Pop" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b20e5990e56.jpg" group-title="", 13 Pop
 https://dai.google.com/linear/hls/pa/event/WKlE4m31TOijQS05TZmhqw/stream/aa613f71-3824-4301-93bb-3f0d99ab9928:SCL2/variant/afdc307fd400b6464d0182b961e72700/bandwidth/2543380.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13 Realities
+#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b20f09a8612.jpg" group-title="", 13 Realities
 https://dai.google.com/linear/hls/pa/event/g7_JOM0ORki9SR5RKHe-Kw/stream/83964420-0912-4111-834c-9dfbeb47115d:SCL2/variant/41ae94fa708009449c52dfec6894aba0/bandwidth/2865368.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13 Teleseries
+#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="" group-title="", 13 Teleseries
 https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/7adf301d-7608-43a8-abae-44bed50cefe8:SCL2/variant/caed426a5910ba3b92d4f692e9bdb5c2/bandwidth/2371203.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13 Viajes
+#EXTINF:-1 tvg-id="" tvg-name="13 Viajes" tvg-logo="" group-title="", 13 Viajes
 https://dai.google.com/linear/hls/pa/event/3hCyW0rZSnawRZcTVlr_iw/stream/4814151a-9106-4c8d-a691-dda01be25935:SCL2/variant/6451a6bc14f1277e5051355818a10cfe/bandwidth/3439496.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-13c
+#EXTINF:-1 tvg-id="" tvg-name="13c" tvg-logo="" group-title="", 13c
 https://cdn1tlinkgo.tlink.cl/13c/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="" group-title="", 24 Horas
 https://cdn1tlinkgo.tlink.cl/24horashd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Abajo e la linea TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Abajo e la linea TV
 https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/chunklist_w2027250578.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-AE Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", AE Radio
 https://tls-cl.cdnz.cl/aeradio/live/chunklist_w1680356425.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Antofagasta TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Antofagasta TV
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/atv/livestream4/chunks.m3u8?nimblesessionid=444988906
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Autonoma Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Autonoma Radio
 https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/chunks.m3u8?nimblesessionid=365344795
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Aysen TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Aysen TV
 https://v1.tustreaming.cl/aysentv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Baby Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Baby Tv
 https://cdn1tlinkgo.tlink.cl/babytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-BioBio TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", BioBio TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream1/chunks.m3u8?dpssid=b217598824596a6ea672d3bb2&sid=ba5t1l1xb22386390876a6ea672d3bb1&ndvc=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Bombi TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Bombi TV
 https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w41102672.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Calbuco Net
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Calbuco Net
 https://videostream.chileservidores.com:8081/chiloe5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Caldera Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Caldera Vision
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/chunklist_w909868014.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Canal 1 Chillan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Canal 1 Chillan
 https://tls-cl.cdnz.cl/canal21tv/live/chunklist_w2120468048.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Canal 2 San Antonio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Canal 2 San Antonio
 https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8?nimblesessionid=153167318
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Canal 2 Quellon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Canal 2 Quellon
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8?nimblesessionid=153167492
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Canal 5 Linares
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Canal 5 Linares
 https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Canal 5 Puerto Montt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Canal 5 Puerto Montt
 https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/chunklist_w227742915.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Canal 9 Bío-Bío
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Canal 9 Bío-Bío
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream3/chunks.m3u8?nimblesessionid=445000865
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Canal ISB San Bernardo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Canal ISB San Bernardo
 https://unlimited1-us.dps.live/isb/isb.smil/isb/livestream1/chunks.m3u8?nimblesessionid=633711330
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Caracola TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=365348812
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-CDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", CDTV
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/chunklist_w792114516.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-CGTN Español
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Chile Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Chile Channel
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Chiloe Red 25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Cine35mm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Cine35mm
 https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Ciudadano TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Ciudadano TV
 https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/chunklist_w1725084879.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-CNN Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", CNN Chile
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/cnn/livestream3/chunks.m3u8?dpssid=b218073552506a6eabed99ae7&sid=ba5t1l1xb23746645326a6eabed99ae6&ndvc=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Contivision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Contivision
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=350762900
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-CRTV Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", CRTV Chile
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?hls_ctx=q9d313t8&ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Dance FM TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Dance FM TV
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/chunklist_w823896185.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Decima TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Decima TV
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/decimatv/livestream1/chunks.m3u8?nimblesessionid=350764778
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Deportes13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Deportes13
 https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/3b8a6bde-c90a-4e75-b378-b1b839e83b41:SCL2/variant/be52c0e7779aeabf0dff8b671947fe6d/bandwidth/543020.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Dodo Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Dodo Tv
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-DW Espanol
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-EGM Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", EGM Channel
 https://vdochile.com:3922/live/egm20live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-El 3 de Conce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", El 3 de Conce
 https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/chunklist_w459552287.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-El Chavo del 8 (24/7)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", El Chavo del 8 (24/7)
 https://live20.bozztv.com/giatvplayout7/giatv-208870/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-EL Pinguino TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", EL Pinguino TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/pinguinotv/livestream3/chunks.m3u8?dpssid=b27439847886a6eb701986d0&sid=ba5t1l1xb219318299896a6eb701986ce&ndvc=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-EnerGeek
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", EnerGeek
 https://cdn1tlinkgo.tlink.cl/energeekhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-EnerGeek Fan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", EnerGeek Fan
 https://cdn1tlinkgo.tlink.cl/energeekfanpophd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-EnerGeek Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", EnerGeek Radio
 https://cdn1tlinkgo.tlink.cl/energeekradiohd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Enfoque Digital TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Enfoque Digital TV
 https://5eaccbab48461.streamlock.net:1936/8074/8074/chunklist_w103898237.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Epa! Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Epa! Tv
 https://v4.tustreaming.cl/edusauriotv/tracks-v1a1/mono.ts.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Fantasia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Fantasia TV
 https://v2.tustreaming.cl/fantasiatv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Freciencia Cultural
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Freciencia Cultural
 https://v2.tustreaming.cl/frecuenciacultural/tracks-v1a1/mono.ts.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Frecuencia 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Frecuencia 7
 https://v2.tustreaming.cl/frecuencia7/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-FutGo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", FutGo
 https://dai.google.com/linear/hls/pa/event/Jxo4ZkwHQr-9XqguRcdsSg/stream/ba02b0ae-dc7f-443f-bbb2-a342cda3dd7e:SCL2/variant/760390a7e6628721f047ad81607b6bc1/bandwidth/457852.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-G Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", G Vision
 https://videostream.chileservidores.com:8081/tome/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-GiroVisual
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", GiroVisual
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/girovisual2/livestream1/chunks.m3u8?nimblesessionid=445076236
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Holvoet TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Holvoet TV
 https://unlimited2-cl-isp.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8?nimblesessionid=350809539
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Huasco TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Huasco TV
 https://paneltv.stream:19360/huasco/576p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-ITV Patagonia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", ITV Patagonia
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/itv/livestream2/chunks.m3u8?nimblesessionid=445079631
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-La Chilena TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-La Comarca Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", La Comarca Tv
 https://v2.tustreaming.cl/lcomarcatv/tracks-v1a1/mono.ts.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-La Granja Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", La Granja Tv
 https://oracle.streaminghd.cl/8126/8126/chunklist_w701420495.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Lila Tv Pencahue
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Lila Tv Pencahue
 https://tv.arkeo.cl:1936/radiolila/radiolila/chunklist_w1438387199.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Locomotion Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Locomotion Tv
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Los Simpsons 24/7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Los Simpsons 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Mega
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=350863523&ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Mega 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Mega 2
 https://cdn1tlinkgo.tlink.cl/mega2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Mega Ficción
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Mega Ficción
 https://cdn1tlinkgo.tlink.cl/megaficcion/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Meganoticias
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Meganoticias
 https://cdn1tlinkgo.tlink.cl/meganoticias/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Megatiempo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Megatiempo
 https://cdn1tlinkgo.tlink.cl/megatiempo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Mundo de la Musica
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Mundo de la Musica
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/chunklist_w1620325166.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Municipalidad de Lampa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Municipalidad de Lampa
 https://videostream.chileservidores.com:8081/lampa2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Music PUQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8?Fralegon
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Oli Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Oli Tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Onda Fiesta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Onda Fiesta
 https://5ff3d9babae13.streamlock.net/8000/8000/chunklist_w1068008330.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Osorno Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Osorno Tv
 https://videostream.chileservidores.com:8081/osornotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Parentesis Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Parentesis Tv
 https://freya.mivideo.pro/parentesistv/tracks-v1a1/mono.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Pasion Ranchera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Pasion Ranchera
 https://tv.arkeo.cl:19360/8068/8068.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-PelisKids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", PelisKids
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Pichilemu TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Pichilemu TV
 https://5ff3d9babae13.streamlock.net/8028/8028/chunklist_w458061180.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Planeta TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Planeta TV
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w2047881632.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Portalfoxmix TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Portalfoxmix TV
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w489396598.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-PrideTv Latam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", PrideTv Latam
 https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.m3u8?amp%3BChileTv&token=D3m0M3UCLWeb
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Pucon TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Pucon TV
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chunks.m3u8?nimblesessionid=153210352
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Puranoticia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Quilpue Online
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Quilpue Online
 https://giatv.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Radio Fantasia Chile - TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Radio Fantasia Chile - TV
 https://streamtwo.cloudhostservers.com:3831/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Radio Lampa FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Radio Lampa FM
 https://videostream.chileservidores.com:8081/lampa1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Radio Siete Tazas de Molina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Radio Siete Tazas de Molina
 https://5ff3d9babae13.streamlock.net/krjrtsstzv/krjrtsstzv/chunklist_w1885953524.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Radio Uniacc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Radio Uniacc
 https://scl.edge.grupoz.cl/uniaccastream/live/chunklist_w812082477.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Recuerdos Retro Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Recuerdos Retro Radio
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w76058867.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Retro Hits Music Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Retro Hits Music Channel
 https://lbgo.bozztv.com/ssh101/ssh101/retrohitsmusic/chunks.m3u8?lb_backend_hint=6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Retro Plus Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Retro Plus Tv
 https://tls-cl.cdnz.cl/retroplustvuno/live/chunklist_w236900128.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Retro Plus Tv Señal 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Retro Plus Tv Señal 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w2104013612.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Retro Plus Tv Señal 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Retro Plus Tv Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1974632480.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Retro Tv Online
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Retro Tv Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-RialTv Melipilla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", RialTv Melipilla
 https://5eaccbab48461.streamlock.net:1936/8124/8124/chunklist_w1750727241.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Ruidos FM Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Ruidos FM Radio
 https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8?hls_ctx=43b86w7t&ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Ruidos Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Ruidos Tv
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?hls_ctx=68a1454n&ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-San Nicolas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", San Nicolas
 https://v4.tustreaming.cl/sannicolastv/tracks-v1a1/mono.ts.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Santa Maria TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Santa Maria TV
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/smtv/livestream1/chunks.m3u8?nimblesessionid=153213312
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-SextaVision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", SextaVision
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/chunklist_w187158944.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Solo Bailalo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Solo Bailalo
 https://5ff3d9babae13.streamlock.net/8000/8000/chunklist_w1760125276.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-SurTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", SurTv
 https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8?session_id=235272
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-T13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", T13
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_400.m3u8?ChileTv=&dpssid=b214240385086a6ed6b55fcfc&sid=ba5t1l1xb219364015986a6ed6b55fcfb&ndvc=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-T13 Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist_400.m3u8?nimblesessionid=445181891&ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TALTAL TV 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TALTAL TV 3
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Teletrak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Teletrak
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?nimblesessionid=445184805
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Televida
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Televida
 https://tls-cl.cdnz.cl/televida/live/chunklist_w724190629.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TeleZeta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TeleZeta
 https://stream.telezeta.cl/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Tevex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Tevex
 https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Thema TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Thema TV
 https://unlimited1-us.dps.live/thema/thema.smil/thema/livestream2/chunks.m3u8?nimblesessionid=634193050
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TNE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TNE
 https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Turf Movil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Turf Movil
 https://tvturf4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=e9eab1dc-c733-5f1f-e972-55a9e159b741&q=&d=u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Turismo Travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Turismo Travel
 https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TuTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TuTv
 https://vdochile.com:3775/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TV +
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TV +
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream3/chunks.m3u8?dpssid=8591a6cfcc01c7803021ae835d34204f&sid=ba5t1l1xb24554427056a6edbbf13d2e&ndvc=0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TV Senado
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TV Senado
 https://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=lq&t=&id=11317c09-a8b8-486a-b11e-c2d09fade61c&q=1&d=u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Tv Usach
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Tv Usach
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&amp;t=&amp;id=luflljxo&amp;q=&amp;d=w&amp;ChileTv&amp;Fralegon
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TVN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TVN
 https://cdn1tlinkgo.tlink.cl/tvnhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TVN 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TVN 3
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream/5653641561b4eba30a7e4929/publish/media_1000.m3u8?aid=51c2f628b440bd797900051f&pid=ZtLSWx6y0gKO1AeEMYHqUfVqe7w6GrAi&sid=6Kg6JJt1IM6L04OhI1rquQSavTPp0uWF&uid=FrlwDep8YArXuv5Durucx3YIAIGioR8k&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1785736795258&ot=qaGtALyMGfUfGYYr05XAkg&proto=https&pz=us
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TVO San Vicente
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TVO San Vicente
 https://5ff3d9babae13.streamlock.net/8014/8014/chunklist_w1891113551.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TVR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TVR
 https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?nimblesessionid=634236752
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TVU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/tvu/livestream2/chunks.m3u8?nimblesessionid=445201128
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-TVUCT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TVUCT
 https://unlimited1-us.dps.live/uct/uct.smil/uct/livestream3/chunks.m3u8?nimblesessionid=634240701
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-UATV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", UATV
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8?nimblesessionid=445202661
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-UCV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=445203374
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-UCV TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?nimblesessionid=350930823
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Uniregión
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Uniregión
 https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/chunklist_w2023872337.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-UrbanProDj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", UrbanProDj
 https://vdochile.com:3115/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-UTalca TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", UTalca TV
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/campustv/livestream0/chunks.m3u8?nimblesessionid=445224647&ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-UTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", UTV
 https://v2.tustreaming.cl/utv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-V Sporting TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", V Sporting TV
 https://pantera1-100gb-cl-movistar.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?nimblesessionid=153221250
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-VC TV (VC Medios)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", VC TV (VC Medios)
 https://panel.tvstream.cl:1936/8024/8024/chunklist_w641317588.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-VClasicTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", VClasicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1767537253.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-VClasicTV Tropical
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", VClasicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/chunklist_w651942505.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Verso Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Verso Tv
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Vida Nueva Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Vida Nueva Tv
 https://stmv7.voxtvhd.com.br/vidanueva/vidanueva/playlist.m3u8?hls_ctx=968sz2jj
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-VTV Valle Aconcagua
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", VTV Valle Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream2/chunks.m3u8?nimblesessionid=634321510
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Zona Play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Zona Play
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Zoom Tecnológico
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Zoom Tecnológico
 https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/chunklist_w1797933251.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-Zyoon TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Zyoon TV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
