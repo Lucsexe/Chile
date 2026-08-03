@@ -302,6 +302,9 @@ https://cloud5.streaminglivehd.com/p/3408/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Lampa FM" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a45247ececa0.png" group-title="Información", Radio Lampa FM
 https://videostream.chileservidores.com:8081/lampa1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ritmo FM" tvg-logo="https://imgur.com/qU3E0kX" group-title="Radio", Radio Ritmo FM
+https://panel.tvstream.cl:1936/8046/8046/chunklist_w1675434028.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Radio Siete Tazas de Molina" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b6b26149d92.jpg" group-title="Radio", Radio Siete Tazas de Molina
 https://5ff3d9babae13.streamlock.net/krjrtsstzv/krjrtsstzv/chunklist_w1885953524.m3u8
 
