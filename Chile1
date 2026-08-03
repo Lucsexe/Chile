@@ -92,6 +92,9 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream3/chunks.m3u8?nimbles
 #EXTINF:-1 tvg-id="" tvg-name="Canal ISB San Bernardo" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d70808769e3.png" group-title="Religion", Canal ISB San Bernardo
 https://unlimited1-us.dps.live/isb/isb.smil/isb/livestream1/chunks.m3u8?nimblesessionid=633711330
 
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Patagonia" tvg-logo="https://www.canalsurpatagonia.cl/wp-content/uploads/2024/07/Canal-Sur-Patagonia-272x90-2-jpg.avif" group-title="Radio", Canal Sur Patagonia
+https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Caracola TV" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d70ad7553fd.jpeg" group-title="General", Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=365348812
 
