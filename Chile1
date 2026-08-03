@@ -296,6 +296,9 @@ https://giatv.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Fantasia" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a4da735afda3.jpg" group-title="Radio", Radio Fantasia Chile - TV
 https://streamtwo.cloudhostservers.com:3831/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Radio Harris TV" tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/05/radio-harris-tv.png" group-title="Musica", Radio Harris TV
+https://cloud5.streaminglivehd.com/p/3408/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Radio Lampa FM" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a45247ececa0.png" group-title="Información", Radio Lampa FM
 https://videostream.chileservidores.com:8081/lampa1/tracks-v1a1/mono.m3u8
 
