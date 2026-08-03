@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="el-trece.ar" tvg-name="El Trece" tvg-logo="https://ejemplo.com/logo.png" group-title="ARGENTINA",El Trece HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-name="1 Voces del Fuego" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a315bc227d85.png" group-title="Información", 1 Voces del Fuego
